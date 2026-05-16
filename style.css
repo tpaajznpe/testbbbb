@@ -153,8 +153,9 @@ body {
 }
 
 .bg-top {
-        height: 140px;
+        height: 200px;
         background-size: contain;
+        width: 100%;
 
     }
 
